@@ -75,7 +75,7 @@ class ViewController: UIViewController, RoomDelegate {
     }()
     
     lazy var room: Room = {
-        return Room.Builder(deploy: "default", key: "AcWTcIXA6Z95uYDOLMb9U8uZH5eeSb045FB8fXu5", roomId: "1")
+        return Room.Builder(deploy: "deploy", key: "key", roomId: "1")
             .setRoomDelegate(delegate: self)
             .setMetadata(json: JSON(["name": "TINTIN"]))
             .setPeerId(id: "IOS")
