@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.2.2)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - GoogleWebRTC (1.1.29400)
+  - QCall (0.0.8):
+    - Alamofire (~> 5.1)
+    - AlamofireImage (~> 4.0)
+    - GoogleWebRTC (~> 1.1.29229)
+    - Starscream (~> 4.0.0)
+    - SwiftyJSON (~> 4.0)
+  - Starscream (4.0.4)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - QCall
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - GoogleWebRTC
+    - Starscream
+    - SwiftyJSON
+  https://github.com/vivequilo/q-specs:
+    - QCall
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  GoogleWebRTC: cfb83bc346435a17fe06bb05f04ad826b858a7fb
+  QCall: 1c1abb9d41cc88414248222ba4af3c888b22374b
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: c06c3b4e58e53005a3d1611270ea0574e534af20
+
+COCOAPODS: 1.8.4

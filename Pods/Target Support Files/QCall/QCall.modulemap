@@ -1,0 +1,6 @@
+framework module QCall {
+  umbrella header "QCall-umbrella.h"
+
+  export *
+  module * { export * }
+}
