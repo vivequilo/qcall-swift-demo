@@ -125,7 +125,7 @@ key | `String`| The api key provided by Qüilo S.A to connect the server.
 
 **Functions** 👾
 Name | Parameters | Description | Returns
---- | --- | ---
+--- | --- | --- | ---
 setPeerId | `id: String` | Sets the peerId to the room. | Builder
 setRoomDelegate | `delegate: RoomDelegate?` | Sets the room Delegate. | Builder
 setMetadata | `meta: JSON` | Sets the metadata to the room. | Builder
