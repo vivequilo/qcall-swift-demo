@@ -4,7 +4,7 @@ Android library for video calls using Qüilo S.A servers.
 
 __Install QCall IOS__
 
-With __cocoapods__  **(IOS > 12)**  <img src="https://cocoapods.org/favicons/favicon.ico" width="30"/>
+With __cocoapods__  **(IOS >= 10)**  <img src="https://cocoapods.org/favicons/favicon.ico" width="30"/>
 First add vivequilo specs source at top of your podfile
 
 ```ruby
