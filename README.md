@@ -1,6 +1,6 @@
 
-# QCall Android 📱
-Android library for video calls using Qüilo S.A servers. 
+# QCall Swift 📱
+Swift library for video calls using Qüilo S.A servers. 
 
 __Install QCall IOS__
 
